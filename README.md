@@ -29,6 +29,7 @@ actually function.
 - `/youtube-research/` — YouTube growth benchmarks and analysis
 - `/tiktok-research/` — TikTok algorithm behavior observations
 - `/platform-policy-analysis/` — Safety and compliance research
+- `/growth-tools-analysis/`  — tool comparisons, evaluation frameworks, curated resource lists
 - `/reading-lists/` — Curated industry reports and resources
 
 ## About SMMNut
